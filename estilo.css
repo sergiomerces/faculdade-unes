@@ -1,0 +1,26 @@
+/* Folha de estilos global*/
+
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header > div#logo {
+    float: left;
+
+}
+
+header > nav {
+    float: right;
+}
+
+main {
+    max-width: 900px;
+    margin: auto;
+}
