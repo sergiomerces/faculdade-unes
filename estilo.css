@@ -73,6 +73,19 @@ hr {
     border: 1px solid silver;
 }
 
+form {
+    width: 300 px;
+    margin-top: 50px;
+}
+
+form > p {
+    margin-top: 10px;
+}
+
+form > input {
+    width: 300 px;
+}
+
 footer {
     margin-top: 15px;
     margin-bottom: 25px;
